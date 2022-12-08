@@ -1,0 +1,33 @@
+body{
+    background-color:lightskyblue
+}
+
+
+
+input{
+    width: 100px x 250px;
+    margin:auto;
+    font-size: medium;
+    background-color: rgb(4, 0, 255);
+    color:black;
+    align-self: center;
+
+}
+h3 {
+    background-color: aqua;
+    font-size: 33px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.table{
+
+border-spacing: 100px;
+border-width: 100px;
+
+}
+.alinear{
+    text-align: center;
+}
+.letra{
+    font-size: large;
+}
